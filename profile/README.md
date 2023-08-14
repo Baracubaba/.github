@@ -1,3 +1,7 @@
+# Baracubaba
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7MT2R5)
+
 **Baracubaba** is a collective of friends brimming with ideas and a passion for learning and bringing them to life. Our portfolio is diverse, encompassing everything from websites, mobile apps, and Minecraft mods (Forge) to any open-source concept we can envision. Our team isn't just made up of developers. Here's a breakdown of our current members and their roles:
 
 - [Luiz-AVcruz](https://github.com/Luiz-AVcruz)  - Organizer, QA, and Developer | [LinkedIn](https://www.linkedin.com/in/luiz-augusto-vitorino-cruz/)
