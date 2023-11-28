@@ -10,6 +10,5 @@
 - [Gabefgonc](https://github.com/gabefgonc) - Developer
 - [Abdiel](https://github.com/abdieldeathayde) - Developer Apprentice
 - [Krisque](https://github.com/chrisemke) - Experienced developer assistant
-- [Ulisses](https://github.com/UlissesMatiolaTodorov) - Designer
 
 All of our projects come with a README that explains what the project is about, its technical specifications, and other details such as our future plans. It's worth noting that while GitHub serves as a showcase for our repositories, we primarily use [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/) for our project management, where most of our projects will also be made public.
