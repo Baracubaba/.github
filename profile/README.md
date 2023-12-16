@@ -1,6 +1,7 @@
 # Baracubaba
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7MT2R5)
+[Discord](https://discord.gg/xpZZAjWK6h)
 
 **Baracubaba** is a collective of friends brimming with ideas and a passion for learning and bringing them to life. Our portfolio is diverse, encompassing everything from websites, mobile apps, and Minecraft mods with [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) to any open-source concept we can envision. Our team isn't just made up of developers. Here's a breakdown of our current members and their roles:
 
