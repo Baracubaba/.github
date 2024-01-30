@@ -10,6 +10,6 @@ We are not just about innovation and execution, our core drive is to create proj
 
 All of our projects come with a README that explains what the project is about, its technical specifications, and other details such as our future plans. It's worth noting that while GitHub serves as a showcase for our repositories, we primarily use [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/) for our project management and [Obsidian](https://obsidian.md/)/[Roadmap.sh](https://roadmap.sh/) for our roadmaps/wiki, where most of our projects will also be made public. 
 
-## Partners: 
+## Partners:
 Bichinhos da TI - Dev Community: 
 [Discord](https://discord.gg/bichinhosti) | [LinkedIn](https://www.linkedin.com/company/bichinhos-da-ti/)
