@@ -1,11 +1,22 @@
 # Baracubaba
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7MT2R5)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/baracubaba)
 
-[Discord](https://discord.gg/xpZZAjWK6h) | [LinkedIn](https://www.linkedin.com/company/baracubaba)
+[Discord](https://discord.gg/) | [LinkedIn](https://www.linkedin.com/company/baracubaba)
 
-**Baracubaba** is a collective of friends brimming with ideas and a passion for learning and bringing them to life. Our portfolio is diverse, encompassing everything from websites, mobile apps, and Minecraft mods with [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) to any open-source concept we can envision. Our team isn't just made up of developers. Here's a breakdown of our current members and their roles:
+### About us  
+**Baracubaba** is a collective of friends and colleagues passionate about creating, learning, and sharing knowledge. Our team consists mainly of developers, but we welcome collaboration from people of all backgrounds. The best ideas come when diverse minds work together.
 
-We are not just about innovation and execution, our core drive is to create projects that also serve as free educational resources for users. We believe in the power of knowledge sharing and are committed to providing quality information at no cost. This ethos of learning and sharing underpins every project we undertake, as we strive to contribute to a community where education is accessible to everyone. Our hope is that our work not only fulfills practical needs but also enriches the learning journey of all who come across it.
+### What we do  
+We build websites, mobile apps, game mods—especially for Minecraft, using technologies like [NeoForge](https://neoforged.net/)—and any other open-source concept that sparks our curiosity.
 
-All of our projects come with a README that explains what the project is about, its technical specifications, and other details such as our future plans. It's worth noting that while GitHub serves as a showcase for our repositories, we primarily use [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/) for our project management and [Obsidian](https://obsidian.md/)/[Roadmap.sh](https://roadmap.sh/) for our roadmaps/wiki, where most of our projects will also be made public. 
+### Mission  
+Our primary mission is to share knowledge freely. Every project we create serves as both a practical tool and an educational resource. We believe education should be accessible to everyone, so most of our resources are completely free.
+
+### Tools and Workflow  
+We strongly encourage using tools like **Obsidian** and **Excalidraw** to help organize ideas and make learning easier. Each of our projects comes with clear documentation, ensuring the community can easily understand and use them.
+
+### Licensing and Collaborations  
+All projects at Baracubaba use GPL licenses (or their variations depending on the project). While we don't directly sell our work, we encourage individual or collective collaborations. If any project catches your eye, feel free to contact us directly.
+
+We're always open for a conversation!
